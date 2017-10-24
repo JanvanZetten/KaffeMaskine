@@ -24,10 +24,6 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Rectangle KaffeStraale;
     
-    private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
-        label.setText("Hello World!");
-    }
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
