@@ -24,5 +24,6 @@
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#7c7c7c" height="17.0" layoutX="258.0" layoutY="125.0" stroke="BLACK" strokeType="INSIDE" width="69.0" />
       <Label layoutX="258.0" layoutY="103.0" text="5kr." />
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="152.0" layoutX="152.0" layoutY="369.0" stroke="BLACK" strokeType="INSIDE" width="104.0" />
+      <Rectangle fx:id="KaffeStraale" arcHeight="5.0" arcWidth="5.0" fill="TRANSPARENT" height="44.0" layoutX="199.0" layoutY="326.0" stroke="TRANSPARENT" strokeType="INSIDE" width="9.0" />
     </children>
 </AnchorPane>
