@@ -21,7 +21,6 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Label label;
     
-    @FXML
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
         label.setText("Hello World!");
@@ -31,5 +30,21 @@ public class FXMLDocumentController implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
     }    
+
+    @FXML
+    private void SortKaffeAction(ActionEvent event) {
+    }
+
+    @FXML
+    private void SortKaffeMedSukkerAction(ActionEvent event) {
+    }
+
+    @FXML
+    private void KaffeMedMælkAction(ActionEvent event) {
+    }
+
+    @FXML
+    private void KaffeMedMælkOgSukker(ActionEvent event) {
+    }
     
 }
