@@ -27,6 +27,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Rectangle KaffeStraale;
     
+<<<<<<< HEAD
     
     Timer timer = new Timer();
     
@@ -35,6 +36,8 @@ public class FXMLDocumentController implements Initializable {
         System.out.println("You clicked me!");
         label.setText("Hello World!");
     }
+=======
+>>>>>>> 6cdc7df3519d7fbb11f3fb0588ed4a885ddd4834
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
